@@ -50,7 +50,3 @@ function draw() {
 	  	wave.pop();
   }
 }
-
-	
-
-
