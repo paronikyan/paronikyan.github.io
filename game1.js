@@ -43,7 +43,7 @@ function draw() {
 	  }
 	  endShape();
 
-	  time += 0.1;
+	  time += 0.03;
 
 
 	  if (wave.length > 500){
