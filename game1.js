@@ -13,7 +13,7 @@ function draw() {
 	  let x = 0;
 	  let y = 0;
 	  
-	  for (let i = 0; i < 500; i++){
+	  for (let i = 0; i < 5; i++){
 	  	let prevx = x;
 	  	let prevy = y;
 		let n = i * 2 + 1;
@@ -43,7 +43,7 @@ function draw() {
 	  }
 	  endShape();
 
-	  time += 100;
+	  time += 0.01;
 
 
 	  if (wave.length > 500){
