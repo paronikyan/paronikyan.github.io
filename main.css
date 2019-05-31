@@ -38,4 +38,8 @@ ul{
 	font-size: 50px;
 	text-align: center;
 }
+ol li{
+	background-color:black; 
+}
+
 
