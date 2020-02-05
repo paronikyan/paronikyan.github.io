@@ -13,7 +13,7 @@ function draw() {
 	  let x = 0;
 	  let y = 0;
 	  
-	  for (let i = 0; i < 15; i++){
+	  for (let i = 0; i < 5; i++){
 	  	let prevx = x;
 	  	let prevy = y;
 		let n = i * 2 + 1;
@@ -46,7 +46,7 @@ function draw() {
 	  time += 0.05;
 
 
-	  if (wave.length > 50){
+	  if (wave.length > 500){
 	  	wave.pop();
   }
 }
