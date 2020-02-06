@@ -7,7 +7,7 @@ function setup(){
 }
 
 function draw() {
-	  background(0);
+	  background(1);
 	  translate(300,300);
 	  
 	  let x = 0;
